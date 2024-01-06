@@ -1,1 +1,2 @@
-YFBNC-TEBOY-PSIHM-TKUEE-IQAOX
+Kullanıcı Adı : "TEST"
+Şifre : "TEST"
